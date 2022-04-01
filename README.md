@@ -54,18 +54,16 @@ crie uma instancia da classe ObsCovid
 
 <i>A Classe ObsCovid possui 3 metodos valiosos</i>
 
-    id_obj.Salvar_Dados() - Metodo responsável por salvar o nossa base de dados do servidor para o mesmo local
-                            onde o codigo fonte estiver.
+id_obj.Salvar_Dados() - Metodo responsável por salvar o nossa base de dados do servidor para o mesmo local
+                        onde o codigo fonte estiver.
 
     
-    id_obj.Pais(nomedoPaís) - Metodo responsável por carregar a base de dados de acordo com o que se pede
-                                e pegar as datas e ocorrência no país procurado e plotar em um grafico.
+id_obj.Pais(nomedoPaís) - Metodo responsável por carregar a base de dados de acordo com o que se pede
+                          e pegar as datas e ocorrência no país procurado e plotar em um grafico.
 
     
-    id_obj.PaisEx(nomedopaís, inicio, fim) - Metodo responsável por carregar a base de dados de acordo com o que se pede
-                                e pegar as datas e ocorrência no país procurado e plotar em um grafico tendo limites inicio e final, por exemplo eu quero apresentar somente 20 registros obedecendo o número
-                                de registros de ocorrências.
-
+ id_obj.PaisEx(nomedopaís, inicio, fim) - Metodo responsável por carregar a base de dados de acordo com o que se pede
+                                        e pegar as datas e ocorrência no país procurado e plotar em um grafico tendo limites inicio e final, por exemplo eu quero apresentar somente 20 registros obedecendo o número de registros de ocorrências
 </p>
 
 <h2>Observação</h2>
