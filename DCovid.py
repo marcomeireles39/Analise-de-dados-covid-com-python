@@ -1,7 +1,7 @@
 import pandas as pd
 from urllib.request import urlretrieve
 import matplotlib.pyplot as plt
-%matplotlib inline
+
 
 class ObsCovid():
     identif = ""
